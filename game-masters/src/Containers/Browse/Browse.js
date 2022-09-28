@@ -218,3 +218,5 @@ const Browse = props => {
         </section>
     );
 }
+
+export default Browse;
